@@ -1,0 +1,6 @@
+[submodule "adapters"]
+	path = adapters
+	url = git@github.com:gnuplot/aquaterm_adapters.git
+[submodule "aquaterm"]
+	path = aquaterm
+	url = git@github.com:gnuplot/aquaterm_aquaterm.git
